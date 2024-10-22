@@ -87,7 +87,7 @@ body
 
 /*MAIN IMAGE*/
 
-.picture__img
+.main-picture__img
 {
     width: 100%;
 }
@@ -246,7 +246,7 @@ body
 
 /*POPULAR CHALLENGES*/
 
-.body__title
+.popular-challenges-title
 {
     display: block;
     margin-left: auto;
@@ -260,7 +260,7 @@ body
 }
 @media only screen and (min-width: 1060px)
 {
-    .body__title
+    .popular-challenges-title
     {
         font-size: 36px;
         margin-bottom: 80px;
